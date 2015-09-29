@@ -7,7 +7,7 @@ for Arma 3 @Exile mod
 
 ACD_UViSZ Version
 --------------
-* 0.1
+* 0.2
 
 @Exile Version
 ---------------
